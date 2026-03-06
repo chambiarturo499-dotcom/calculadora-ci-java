@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Calculadora\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=int\ sumar(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ restar(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ multiplicar(int,\ int)
+comment4.params=a\ b
+comment4.target=int\ dividir(int,\ int)
+numComments=5
